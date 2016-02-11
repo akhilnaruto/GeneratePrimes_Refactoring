@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="GeneratePrimes.cs" />
     <Compile Include="GeneratePrimesV1.cs" />
+    <Compile Include="GeneratePrimesV2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestGeneratePrimes.cs" />
   </ItemGroup>
